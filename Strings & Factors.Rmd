@@ -1,0 +1,12 @@
+---
+title: "Strings_-_Factors"
+author: "yz5248"
+date: "2025-10-14"
+output: github_document
+---
+
+```{r}
+library(rvest)
+library(p8105.datasets)
+```
+
